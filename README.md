@@ -28,3 +28,33 @@ This is a beginner-friendly classification project and part of a supervised mach
 | Ruk Jaana Nahi      | 120   | 70     | Not Romantic (0) |
 | Papa Kehte Hain     | 130   | 90     | Not Romantic (0) |
 | Mai Lad Lunga       | 110   | 85     | Not Romantic (0) |
+
+
+🎁 Bonus Tip
+Want to check if the model really works?
+🎧 Just take any song, find its Tempo (in BPM) and Energy level (scale of 0–100), plug them into the code — and let the model tell you whether it’s a Romantic song or not! 🔍💖
+
+
+💡 How to Find Tempo & Energy?
+Don’t know the tempo or energy of a song?
+No problem — here’s how you can find it:
+
+✅ Ask ChatGPT:
+
+"What is the tempo and energy of [song name]?"
+
+🔍 Use websites like:
+
+Tunebat
+
+SongBPM
+
+Spotify audio features
+
+Then plug those values into the model and test away! 🎯
+
+
+## 👨‍💻 Author
+
+Made with ❤️ by Nirvana Dubey
+If you liked this project, don’t forget to give it a ⭐ on GitHub!
